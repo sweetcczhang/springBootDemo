@@ -1,6 +1,7 @@
-package cn.bupt.zcc;
+package cn.bupt.zcc.config;
 
 import cn.bupt.zcc.domain.User;
+import cn.bupt.zcc.util.RedisObjectSerializer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.RedisConnectionFactory;

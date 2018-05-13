@@ -1,4 +1,4 @@
-package cn.bupt.zcc;
+package cn.bupt.zcc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

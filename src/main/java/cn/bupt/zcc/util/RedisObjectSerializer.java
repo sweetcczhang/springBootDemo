@@ -1,4 +1,4 @@
-package cn.bupt.zcc;
+package cn.bupt.zcc.util;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.core.serializer.support.DeserializingConverter;
